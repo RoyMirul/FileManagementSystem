@@ -1,0 +1,4 @@
+manage file line 40 checked="checked" in input
+
+
+<?php echo isset($meta['file_code']) ? $meta['file_code'] :'' ?></textarea>
